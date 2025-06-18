@@ -11,11 +11,10 @@ When I joined GitHub in 2024, I wasn't trying to impress anyone.
 I was uploading half-baked ideas, broken code, and random experiments.  
 So yeah, I have 40 repos.  
 Some of them mean nothing.  
-Some of them are just sparks.
+Some of them are just sparks. 
+But no matter what, I'll always be learning, one commit at a time.
 
-But I'll always be learning, one commit at a time.
-
-But every line of code, every broken build, every README that no one will ever read — it means something **to me**.
+Every line of code, every broken build, every README that no one will ever read — it means something **to me**.
 
 This is not a résumé.  
 This is a record of curiosity.  
