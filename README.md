@@ -12,6 +12,7 @@ I was uploading half-baked ideas, broken code, and random experiments.
 So yeah, I have 40 repos.  
 Some of them mean nothing.  
 Some of them are just sparks.
+
 But I'll always be learning, one commit at a time.
 
 But every line of code, every broken build, every README that no one will ever read — it means something **to me**.
