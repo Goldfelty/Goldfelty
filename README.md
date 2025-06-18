@@ -1,4 +1,4 @@
-# 🧠 Goldfelty
+# Hey there 👋
 
 I build things not because I have to, but because I *need* to.  
 There’s a voice in my head that says, “what if you tried this?” — and I follow it.
@@ -7,7 +7,6 @@ Sometimes that leads to something cool.
 Sometimes it leads nowhere.  
 But I always learn something.
 
----
 
 When I joined GitHub in 2024, I wasn’t trying to impress anyone.  
 I was just messing around — uploading half-finished ideas, broken code, and random experiments.  
@@ -21,7 +20,6 @@ This isn’t a resume.
 It’s a record of curiosity.  
 It’s the story of someone who kept trying, even when it didn’t matter to anyone else.
 
----
 
 I’m not here to be perfect.  
 I’m here to explore.
